@@ -1,4 +1,4 @@
-package com.example.studentapp;
+package progetto2.studentapp;
 
 import javafx.application.Application;
 import javafx.scene.Scene;
